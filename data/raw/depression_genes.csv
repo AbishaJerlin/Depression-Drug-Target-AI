@@ -1,0 +1,201 @@
+ensembl_id,gene_symbol,protein_name,biotype,association_score
+ENSG00000149295,DRD2,dopamine receptor D2,protein_coding,0.746285669
+ENSG00000102468,HTR2A,5-hydroxytryptamine receptor 2A,protein_coding,0.703813771
+ENSG00000022355,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1,protein_coding,0.682714393
+ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,protein_coding,0.669436971
+ENSG00000108576,SLC6A4,solute carrier family 6 member 4,protein_coding,0.645036654
+ENSG00000178394,HTR1A,5-hydroxytryptamine receptor 1A,protein_coding,0.637049935
+ENSG00000142319,SLC6A3,solute carrier family 6 member 3,protein_coding,0.629643141
+ENSG00000151577,DRD3,dopamine receptor D3,protein_coding,0.62455533
+ENSG00000113327,GABRG2,gamma-aminobutyric acid type A receptor subunit gamma2,protein_coding,0.622931479
+ENSG00000103546,SLC6A2,solute carrier family 6 member 2,protein_coding,0.621015931
+ENSG00000168356,SCN11A,sodium voltage-gated channel alpha subunit 11,protein_coding,0.617375115
+ENSG00000145863,GABRA6,gamma-aminobutyric acid type A receptor subunit alpha6,protein_coding,0.613632547
+ENSG00000144285,SCN1A,sodium voltage-gated channel alpha subunit 1,protein_coding,0.612570446
+ENSG00000151834,GABRA2,gamma-aminobutyric acid type A receptor subunit alpha2,protein_coding,0.610049766
+ENSG00000147246,HTR2C,5-hydroxytryptamine receptor 2C,protein_coding,0.609823896
+ENSG00000163288,GABRB1,gamma-aminobutyric acid type A receptor subunit beta1,protein_coding,0.609003449
+ENSG00000182256,GABRG3,gamma-aminobutyric acid type A receptor subunit gamma3,protein_coding,0.60887369
+ENSG00000150594,ADRA2A,adrenoceptor alpha 2A,protein_coding,0.608730395
+ENSG00000189221,MAOA,monoamine oxidase A,protein_coding,0.608212522
+ENSG00000274286,ADRA2B,adrenoceptor alpha 2B,protein_coding,0.607694298
+ENSG00000186297,GABRA5,gamma-aminobutyric acid type A receptor subunit alpha5,protein_coding,0.607490868
+ENSG00000145864,GABRB2,gamma-aminobutyric acid type A receptor subunit beta2,protein_coding,0.607365724
+ENSG00000187730,GABRD,gamma-aminobutyric acid type A receptor subunit delta,protein_coding,0.607260188
+ENSG00000011677,GABRA3,gamma-aminobutyric acid type A receptor subunit alpha3,protein_coding,0.6071631
+ENSG00000102287,GABRE,gamma-aminobutyric acid type A receptor subunit epsilon,protein_coding,0.606933396
+ENSG00000166206,GABRB3,gamma-aminobutyric acid type A receptor subunit beta3,protein_coding,0.606642271
+ENSG00000184160,ADRA2C,adrenoceptor alpha 2C,protein_coding,0.60661845
+ENSG00000109158,GABRA4,gamma-aminobutyric acid type A receptor subunit alpha4,protein_coding,0.606363803
+ENSG00000163285,GABRG1,gamma-aminobutyric acid type A receptor subunit gamma1,protein_coding,0.605824656
+ENSG00000268089,GABRQ,gamma-aminobutyric acid type A receptor subunit theta,protein_coding,0.605732261
+ENSG00000094755,GABRP,gamma-aminobutyric acid type A receptor subunit pi,protein_coding,0.605085496
+ENSG00000136531,SCN2A,sodium voltage-gated channel alpha subunit 2,protein_coding,0.603844564
+ENSG00000069696,DRD4,dopamine receptor D4,protein_coding,0.603220607
+ENSG00000166736,HTR3A,5-hydroxytryptamine receptor 3A,protein_coding,0.600945757
+ENSG00000196876,SCN8A,sodium voltage-gated channel alpha subunit 8,protein_coding,0.599884235
+ENSG00000183873,SCN5A,sodium voltage-gated channel alpha subunit 5,protein_coding,0.599589085
+ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,protein_coding,0.599406388
+ENSG00000169432,SCN9A,sodium voltage-gated channel alpha subunit 9,protein_coding,0.59912711
+ENSG00000185313,SCN10A,sodium voltage-gated channel alpha subunit 10,protein_coding,0.599034715
+ENSG00000136546,SCN7A,sodium voltage-gated channel alpha subunit 7,protein_coding,0.598849925
+ENSG00000153253,SCN3A,sodium voltage-gated channel alpha subunit 3,protein_coding,0.598480345
+ENSG00000007314,SCN4A,sodium voltage-gated channel alpha subunit 4,protein_coding,0.598480345
+ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,protein_coding,0.598370638
+ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,protein_coding,0.598093264
+ENSG00000069535,MAOB,monoamine oxidase B,protein_coding,0.597999919
+ENSG00000105464,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,protein_coding,0.594665011
+ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,protein_coding,0.593007697
+ENSG00000116032,GRIN3B,glutamate ionotropic receptor NMDA type subunit 3B,protein_coding,0.589252635
+ENSG00000134640,MTNR1B,melatonin receptor 1B,protein_coding,0.58326117
+ENSG00000168412,MTNR1A,melatonin receptor 1A,protein_coding,0.58297777
+ENSG00000082701,GSK3B,glycogen synthase kinase 3 beta,protein_coding,0.576366081
+ENSG00000082556,OPRK1,opioid receptor kappa 1,protein_coding,0.576053293
+ENSG00000184845,DRD1,dopamine receptor D1,protein_coding,0.569058975
+ENSG00000112294,ALDH5A1,aldehyde dehydrogenase 5 family member A1,protein_coding,0.564966395
+ENSG00000112038,OPRM1,opioid receptor mu 1,protein_coding,0.562628429
+ENSG00000105723,GSK3A,glycogen synthase kinase 3 alpha,protein_coding,0.55802048
+ENSG00000133731,IMPA1,inositol monophosphatase 1,protein_coding,0.556255149
+ENSG00000172260,NEGR1,neuronal growth regulator 1,protein_coding,0.555560828
+ENSG00000116329,OPRD1,opioid receptor delta 1,protein_coding,0.55315225
+ENSG00000196639,HRH1,histamine receptor H1,protein_coding,0.546756171
+ENSG00000165379,LRFN5,leucine rich repeat and fibronectin type III domain containing 5,protein_coding,0.544389925
+ENSG00000135914,HTR2B,5-hydroxytryptamine receptor 2B,protein_coding,0.543820427
+ENSG00000196628,TCF4,transcription factor 4,protein_coding,0.542941265
+ENSG00000101489,CELF4,CUGBP Elav-like family member 4,protein_coding,0.531824998
+ENSG00000149294,NCAM1,neural cell adhesion molecule 1,protein_coding,0.528409025
+ENSG00000157219,HTR5A,5-hydroxytryptamine receptor 5A,protein_coding,0.528184994
+ENSG00000169676,DRD5,dopamine receptor D5,protein_coding,0.527279476
+ENSG00000156395,SORCS3,sortilin related VPS10 domain containing receptor 3,protein_coding,0.527047829
+ENSG00000135312,HTR1B,5-hydroxytryptamine receptor 1B,protein_coding,0.526707114
+ENSG00000164270,HTR4,5-hydroxytryptamine receptor 4,protein_coding,0.525005476
+ENSG00000115353,TACR1,tachykinin receptor 1,protein_coding,0.523403265
+ENSG00000077063,CTTNBP2,cortactin binding protein 2,protein_coding,0.52301821
+ENSG00000106460,TMEM106B,transmembrane protein 106B,protein_coding,0.522181241
+ENSG00000158748,HTR6,5-hydroxytryptamine receptor 6,protein_coding,0.519498371
+ENSG00000091831,ESR1,estrogen receptor 1,protein_coding,0.518926244
+ENSG00000149305,HTR3B,5-hydroxytryptamine receptor 3B,protein_coding,0.518278934
+ENSG00000179546,HTR1D,5-hydroxytryptamine receptor 1D,protein_coding,0.518193108
+ENSG00000148680,HTR7,5-hydroxytryptamine receptor 7,protein_coding,0.517755189
+ENSG00000178084,HTR3C,5-hydroxytryptamine receptor 3C,protein_coding,0.512050008
+ENSG00000186038,HTR3E,5-hydroxytryptamine receptor 3E,protein_coding,0.512050008
+ENSG00000186090,HTR3D,5-hydroxytryptamine receptor 3D,protein_coding,0.512050008
+ENSG00000168959,GRM5,glutamate metabotropic receptor 5,protein_coding,0.511337611
+ENSG00000196092,PAX5,paired box 5,protein_coding,0.510711546
+ENSG00000179097,HTR1F,5-hydroxytryptamine receptor 1F,protein_coding,0.508636226
+ENSG00000136869,TLR4,toll like receptor 4,protein_coding,0.50827793
+ENSG00000168830,HTR1E,5-hydroxytryptamine receptor 1E,protein_coding,0.507854051
+ENSG00000120907,ADRA1A,adrenoceptor alpha 1A,protein_coding,0.50356767
+ENSG00000188647,PTAR1,protein prenyltransferase alpha subunit repeat containing 1,protein_coding,0.49896446
+ENSG00000171873,ADRA1D,adrenoceptor alpha 1D,protein_coding,0.498301161
+ENSG00000170214,ADRA1B,adrenoceptor alpha 1B,protein_coding,0.497653815
+ENSG00000102837,OLFM4,olfactomedin 4,protein_coding,0.493143555
+ENSG00000189283,FHIT,fragile histidine triad diadenosine triphosphatase,protein_coding,0.48757092
+ENSG00000041353,RAB27B,"RAB27B, member RAS oncogene family",protein_coding,0.486212258
+ENSG00000118557,PMFBP1,polyamine modulated factor 1 binding protein 1,protein_coding,0.484938414
+ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,protein_coding,0.483905866
+ENSG00000138675,FGF5,fibroblast growth factor 5,protein_coding,0.483705921
+ENSG00000134532,SOX5,SRY-box transcription factor 5,protein_coding,0.482935546
+ENSG00000138688,BLTP1,bridge-like lipid transfer protein family member 1,protein_coding,0.481915486
+ENSG00000113361,CDH6,cadherin 6,protein_coding,0.481699082
+ENSG00000213047,DENND1B,DENN domain containing 1B,protein_coding,0.480713763
+ENSG00000168539,CHRM1,cholinergic receptor muscarinic 1,protein_coding,0.479668012
+ENSG00000044459,CNTLN,centlein,protein_coding,0.478018658
+ENSG00000187676,B3GLCT,beta 3-glucosyltransferase,protein_coding,0.478012888
+ENSG00000185920,PTCH1,patched 1,protein_coding,0.475817397
+ENSG00000110693,SOX6,SRY-box transcription factor 6,protein_coding,0.475010185
+ENSG00000184588,PDE4B,phosphodiesterase 4B,protein_coding,0.471864781
+ENSG00000178342,KCNG2,potassium voltage-gated channel modifier subfamily G member 2,protein_coding,0.470831617
+ENSG00000087085,ACHE,acetylcholinesterase (Yt blood group),protein_coding,0.470168571
+ENSG00000239268,LINC03051,long intergenic non-protein coding RNA 3051,protein_coding,0.467076423
+ENSG00000186472,PCLO,piccolo presynaptic cytomatrix protein,protein_coding,0.465815791
+ENSG00000182511,FES,"FES proto-oncogene, tyrosine kinase",protein_coding,0.463969014
+ENSG00000174891,RSRC1,arginine and serine rich coiled-coil 1,protein_coding,0.462943764
+ENSG00000102572,STK24,serine/threonine kinase 24,protein_coding,0.462296507
+ENSG00000152092,ASTN1,astrotactin 1,protein_coding,0.461843538
+ENSG00000118263,KLF7,KLF transcription factor 7,protein_coding,0.46050734
+ENSG00000138821,SLC39A8,solute carrier family 39 member 8,protein_coding,0.460141649
+ENSG00000128573,FOXP2,forkhead box P2,protein_coding,0.456588999
+ENSG00000078328,RBFOX1,RNA binding fox-1 homolog 1,protein_coding,0.456124774
+ENSG00000028116,VRK2,VRK serine/threonine kinase 2,protein_coding,0.454176156
+ENSG00000107105,ELAVL2,ELAV like RNA binding protein 2,protein_coding,0.453687846
+ENSG00000140009,ESR2,estrogen receptor 2,protein_coding,0.452676668
+ENSG00000237515,SHISA9,shisa family member 9,protein_coding,0.451662241
+ENSG00000078618,NRDC,nardilysin convertase,protein_coding,0.451090267
+ENSG00000154736,ADAMTS5,ADAM metallopeptidase with thrombospondin type 1 motif 5,protein_coding,0.449029764
+ENSG00000196782,MAML3,mastermind like transcriptional coactivator 3,protein_coding,0.448430054
+ENSG00000112249,ASCC3,activating signal cointegrator 1 complex subunit 3,protein_coding,0.448373304
+ENSG00000184838,PRR16,proline rich 16,protein_coding,0.446831987
+ENSG00000113389,NPR3,natriuretic peptide receptor 3,protein_coding,0.445655674
+ENSG00000119522,DENND1A,DENN domain containing 1A,protein_coding,0.445352732
+ENSG00000006432,MAP3K9,mitogen-activated protein kinase kinase kinase 9,protein_coding,0.444445672
+ENSG00000165588,OTX2,orthodenticle homeobox 2,protein_coding,0.443623738
+ENSG00000139287,TPH2,tryptophan hydroxylase 2,protein_coding,0.442295768
+ENSG00000112139,MDGA1,MAM domain containing glycosylphosphatidylinositol anchor 1,protein_coding,0.44093062
+ENSG00000147601,TERF1,telomeric repeat binding factor 1,protein_coding,0.43505357
+ENSG00000187772,LIN28B,lin-28 RNA binding posttranscriptional regulator B,protein_coding,0.431749225
+ENSG00000130940,CASZ1,castor zinc finger 1,protein_coding,0.431075223
+ENSG00000070961,ATP2B1,ATPase plasma membrane Ca2+ transporting 1,protein_coding,0.428932847
+ENSG00000151779,NBAS,NBAS subunit of NRZ tethering complex,protein_coding,0.428801756
+ENSG00000179242,CDH4,cadherin 4,protein_coding,0.428761164
+ENSG00000168916,ZNF608,zinc finger protein 608,protein_coding,0.42720952
+ENSG00000169760,NLGN1,neuroligin 1,protein_coding,0.427023524
+ENSG00000079393,DUSP13B,dual specificity phosphatase 13B,protein_coding,0.423891836
+ENSG00000155052,CNTNAP5,contactin associated protein family member 5,protein_coding,0.421848957
+ENSG00000140749,IGSF6,immunoglobulin superfamily member 6,protein_coding,0.421323931
+ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,protein_coding,0.420189171
+ENSG00000177565,TBL1XR1,TBL1X/Y related 1,protein_coding,0.41989172
+ENSG00000185736,ADARB2,adenosine deaminase RNA specific B2 (inactive),protein_coding,0.418862568
+ENSG00000205363,INSYN1,inhibitory synaptic factor 1,protein_coding,0.416700626
+ENSG00000136158,SPRY2,sprouty RTK signaling antagonist 2,protein_coding,0.416629852
+ENSG00000186714,CCDC73,coiled-coil domain containing 73,protein_coding,0.416502713
+ENSG00000126351,THRA,thyroid hormone receptor alpha,protein_coding,0.415374925
+ENSG00000147905,ZCCHC7,zinc finger CCHC-type containing 7,protein_coding,0.414518533
+ENSG00000164180,TMEM161B,transmembrane protein 161B,protein_coding,0.413175715
+ENSG00000171303,KCNK3,potassium two pore domain channel subfamily K member 3,protein_coding,0.413085239
+ENSG00000118473,SGIP1,SH3GL interacting endocytic adaptor 1,protein_coding,0.412561633
+ENSG00000197386,HTT,huntingtin,protein_coding,0.411789159
+ENSG00000131323,TRAF3,TNF receptor associated factor 3,protein_coding,0.410951139
+ENSG00000179761,PIPOX,pipecolic acid and sarcosine oxidase,protein_coding,0.41067046
+ENSG00000002822,MAD1L1,mitotic arrest deficient 1 like 1,protein_coding,0.410449696
+ENSG00000154822,PLCL2,phospholipase C like 2,protein_coding,0.409820052
+ENSG00000074181,NOTCH3,notch receptor 3,protein_coding,0.408270913
+ENSG00000101040,ZMYND8,zinc finger MYND-type containing 8,protein_coding,0.407798743
+ENSG00000080854,IGSF9B,immunoglobulin superfamily member 9B,protein_coding,0.407673674
+ENSG00000007372,PAX6,paired box 6,protein_coding,0.407553883
+ENSG00000183798,EMILIN3,elastin microfibril interfacer 3,protein_coding,0.406964459
+ENSG00000101204,CHRNA4,cholinergic receptor nicotinic alpha 4 subunit,protein_coding,0.406953515
+ENSG00000187323,DCC,DCC netrin 1 receptor,protein_coding,0.406616152
+ENSG00000188778,ADRB3,adrenoceptor beta 3,protein_coding,0.406487569
+ENSG00000078295,ADCY2,adenylate cyclase 2,protein_coding,0.406109358
+ENSG00000075073,TACR2,tachykinin receptor 2,protein_coding,0.405197202
+ENSG00000203727,SAMD5,sterile alpha motif domain containing 5,protein_coding,0.403944179
+ENSG00000160716,CHRNB2,cholinergic receptor nicotinic beta 2 subunit,protein_coding,0.40322889
+ENSG00000151322,NPAS3,neuronal PAS domain protein 3,protein_coding,0.403107502
+ENSG00000188848,BEND4,BEN domain containing 4,protein_coding,0.402065637
+ENSG00000082175,PGR,progesterone receptor,protein_coding,0.401989786
+ENSG00000149292,TTC12,tetratricopeptide repeat domain 12,protein_coding,0.40010676
+ENSG00000175806,MSRA,methionine sulfoxide reductase A,protein_coding,0.397575031
+ENSG00000184226,PCDH9,protocadherin 9,protein_coding,0.396319117
+ENSG00000172817,CYP7B1,cytochrome P450 family 7 subfamily B member 1,protein_coding,0.394052855
+ENSG00000158445,KCNB1,potassium voltage-gated channel subfamily B member 1,protein_coding,0.39316991
+ENSG00000148219,ASTN2,astrotactin 2,protein_coding,0.392712433
+ENSG00000144619,CNTN4,contactin 4,protein_coding,0.391251897
+ENSG00000119682,AREL1,apoptosis resistant E3 ubiquitin protein ligase 1,protein_coding,0.391128912
+ENSG00000048828,FAM120A,family with sequence similarity 120 member A,protein_coding,0.390041112
+ENSG00000145934,TENM2,teneurin transmembrane protein 2,protein_coding,0.38934003
+ENSG00000130203,APOE,apolipoprotein E,protein_coding,0.388741889
+ENSG00000113100,CDH9,cadherin 9,protein_coding,0.387391202
+ENSG00000179915,NRXN1,neurexin 1,protein_coding,0.387348953
+ENSG00000188938,FAM120AOS,family with sequence similarity 120 member A opposite strand,protein_coding,0.387120115
+ENSG00000143207,COP1,COP1 E3 ubiquitin ligase,protein_coding,0.386965417
+ENSG00000112246,SIM1,SIM bHLH transcription factor 1,protein_coding,0.385212751
+ENSG00000136560,TANK,TRAF family member associated NFKB activator,protein_coding,0.383649795
+ENSG00000149972,CNTN5,contactin 5,protein_coding,0.383601787
+ENSG00000153250,RBMS1,RNA binding motif single stranded interacting protein 1,protein_coding,0.383138395
+ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,protein_coding,0.38292157
+ENSG00000008196,TFAP2B,transcription factor AP-2 beta,protein_coding,0.382663135
+ENSG00000146555,SDK1,sidekick cell adhesion molecule 1,protein_coding,0.382010879
+ENSG00000014824,SLC30A9,solute carrier family 30 member 9,protein_coding,0.37929727
+ENSG00000248483,POU5F2,"POU domain class 5, transcription factor 2",protein_coding,0.379276186
+ENSG00000131558,EXOC4,exocyst complex component 4,protein_coding,0.378567588
