@@ -1,0 +1,11 @@
+parameter,shape,number_of_parameters
+conv1.bias,"(128,)",128
+conv1.lin.weight,"(128, 20)",2560
+conv2.bias,"(128,)",128
+conv2.lin.weight,"(128, 128)",16384
+drug_layer.weight,"(128, 1024)",131072
+drug_layer.bias,"(128,)",128
+classifier.0.weight,"(128, 256)",32768
+classifier.0.bias,"(128,)",128
+classifier.3.weight,"(2, 128)",256
+classifier.3.bias,"(2,)",2
