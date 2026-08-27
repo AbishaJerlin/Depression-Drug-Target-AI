@@ -1,0 +1,11 @@
+rank,uniprot_id,drug_chembl_id,true_label,predicted_label,prediction_probability,structure_file,structure_path,structure_exists,pocket_number,Score,Druggability Score,Number of Alpha Spheres,Total SASA,Volume,Mean local hydrophobic density,pocket_found
+1,P31645,CHEMBL359447,0,1,1.0,AF-P31645-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-P31645-F1-model_v6.pdb,True,1,0.188,0.965,185.0,344.45,1157.86,52.431,True
+2,P31645,CHEMBL443762,0,1,1.0,AF-P31645-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-P31645-F1-model_v6.pdb,True,1,0.188,0.965,185.0,344.45,1157.86,52.431,True
+3,O60391,CHEMBL42307,0,1,1.0,AF-O60391-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-O60391-F1-model_v6.pdb,True,1,0.099,0.003,20.0,64.922,236.928,8.0,True
+4,Q01118,CHEMBL5083410,0,1,1.0,AF-Q01118-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-Q01118-F1-model_v6.pdb,True,1,0.122,0.009,59.0,161.517,568.985,16.062,True
+5,P21917,CHEMBL304692,0,1,1.0,AF-P21917-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-P21917-F1-model_v6.pdb,True,1,0.135,0.003,25.0,35.057,138.675,10.0,True
+6,Q99250,CHEMBL1278044,0,1,1.0,AF-Q99250-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-Q99250-F1-model_v6.pdb,True,1,0.215,0.229,61.0,88.411,311.011,40.269,True
+7,Q99250,CHEMBL1277514,0,1,1.0,AF-Q99250-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-Q99250-F1-model_v6.pdb,True,1,0.215,0.229,61.0,88.411,311.011,40.269,True
+8,Q99250,CHEMBL1270208,0,1,0.9999999,AF-Q99250-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-Q99250-F1-model_v6.pdb,True,1,0.215,0.229,61.0,88.411,311.011,40.269,True
+9,O60391,CHEMBL130193,0,1,0.99999976,AF-O60391-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-O60391-F1-model_v6.pdb,True,1,0.099,0.003,20.0,64.922,236.928,8.0,True
+10,O00206,CHEMBL387665,0,1,0.99999964,AF-O00206-F1-model_v6.pdb,C:\dev\Depression-Drug-Target-AI\data\raw\structures\AF-O00206-F1-model_v6.pdb,True,1,0.304,0.029,56.0,115.414,404.917,17.273,True
