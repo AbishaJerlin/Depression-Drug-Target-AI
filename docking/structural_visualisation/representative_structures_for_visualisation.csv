@@ -1,4 +1,0 @@
-rank,uniprot_id,drug_chembl_id,prediction_probability,pocket_number,fpocket_score,druggability_score,center_x,center_y,center_z,best_vina_affinity_kcal_mol,exhaustiveness,number_of_poses,docked_pose_file,status
-4,Q99250,CHEMBL1278044,1.0,1,0.215,0.229,-19.26330769230769,7.660769230769231,-9.569384615384614,-7.674,32,9,/content/drive/MyDrive/Dissertation/Depression-Drug-Target-AI/docking/results/docked_poses/rank_4_Q99250_CHEMBL1278044_vina_out.pdbqt,success
-3,Q99250,CHEMBL1277514,1.0,1,0.215,0.229,-19.26330769230769,7.660769230769231,-9.569384615384614,-7.658,32,9,/content/drive/MyDrive/Dissertation/Depression-Drug-Target-AI/docking/results/docked_poses/rank_3_Q99250_CHEMBL1277514_vina_out.pdbqt,success
-1,Q9Y5Y9,CHEMBL1631097,1.0,1,0.085,0.337,-23.84283720930233,21.764558139534884,32.343325581395355,-7.636,32,9,/content/drive/MyDrive/Dissertation/Depression-Drug-Target-AI/docking/results/docked_poses/rank_1_Q9Y5Y9_CHEMBL1631097_vina_out.pdbqt,success
