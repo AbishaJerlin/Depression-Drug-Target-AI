@@ -1,0 +1,40 @@
+# Core data handling
+numpy
+pandas
+scipy
+
+# Plotting
+matplotlib
+seaborn
+
+# Classical machine learning
+scikit-learn
+joblib
+
+# Model explainability
+shap
+
+# Deep learning (Random Forest + GNN stages)
+torch
+torch_geometric
+
+# Protein language model (ESM-2 embeddings)
+transformers
+
+# Cheminformatics (molecular fingerprints, ligand handling)
+rdkit
+
+# Bioinformatics (PDB parsing for AlphaFold structures / docking)
+biopython
+
+# Molecular docking
+vina
+
+# HTTP requests (AlphaFold structure downloads)
+requests
+
+# Progress bars
+tqdm
+
+# Notebook display utilities
+ipython
