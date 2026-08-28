@@ -83,3 +83,7 @@ In the original workflow, fpocket was run through WSL. These tools need to be in
 - A fixed random seed is used where applicable, for reproducibility.
 - Trained models are saved in `models/` (`random_forest_model.joblib`, `drug_target_gnn_model.pth`) so predictions and explainability stages can be re-run without retraining from scratch.
 - This is a dissertation project and the docking results and candidate predictions are computational hypotheses. They have not been experimentally validated.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
