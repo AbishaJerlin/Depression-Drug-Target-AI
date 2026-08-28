@@ -84,6 +84,8 @@ In the original workflow, fpocket was run through WSL. These tools need to be in
 - Trained models are saved in `models/` (`random_forest_model.joblib`, `drug_target_gnn_model.pth`) so predictions and explainability stages can be re-run without retraining from scratch.
 - This is a dissertation project and the docking results and candidate predictions are computational hypotheses. They have not been experimentally validated.
 
-## License
+### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+The original source code in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for the full license text.
+
+Third-party datasets, databases, structures, and other external resources used in this project remain subject to their respective terms of use and licences. These include resources from UniProt, ChEMBL, Ensembl, and AlphaFold Database.
